@@ -1,0 +1,8 @@
+//
+// Created by benjamin on 10/26/25.
+//
+
+#ifndef ABRACADABRA_SCENEHANDLER_H
+#define ABRACADABRA_SCENEHANDLER_H
+
+#endif //ABRACADABRA_SCENEHANDLER_H

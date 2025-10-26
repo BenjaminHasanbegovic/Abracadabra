@@ -1,0 +1,8 @@
+//
+// Created by benjamin on 10/26/25.
+//
+
+#ifndef ABRACADABRA_EVENTHANDLER_H
+#define ABRACADABRA_EVENTHANDLER_H
+
+#endif //ABRACADABRA_EVENTHANDLER_H
